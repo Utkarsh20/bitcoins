@@ -10,3 +10,6 @@ It's this decentralized nature that makes Bitcoin impervious to government meddl
 When you send or receive coins, they are verified by a digital signature, called a public-encryption key, which prevents counterfeiting and makes coins recognizable to the network.
 It's at this point that many people wonder about the legitimacy of bitcoins. How can a currency just appear overnight on the Internet and have actual value? 
            All currencies have value only because people believe that they have value.
+Bitcoin is no different in that regard.Bitcoin transactions are irreversible and generally very fast.
+However, because the bitcoin verification process must share data regarding the transaction with the entire network, sometimes you'll wait minutes before a payment is completed.
+Because there are no national regulations for bitcoins, you can transfer them into or out of any country and dodge the steep fees that other such services charge. And because the system has no governing authority, your account has no limits and can never be frozen.
